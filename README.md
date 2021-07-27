@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kiko!</h1>
-<h3 align="center">A passionate frontend developer from Philippines.</h3>
+<h3 align="center">A passionate frontend developer from the Philippines.</h3>
 
 - 📫 How to reach me **Johnfrancis.bonifacio@yahoo.com.ph**
 
